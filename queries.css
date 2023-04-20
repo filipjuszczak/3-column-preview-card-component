@@ -1,6 +1,7 @@
-@media (max-width: 375px) {
+/* 375px */
+@media (max-width: 23.4375em) {
   .wrapper {
-    padding: 4.8rem 2.4rem;
+    padding: 3rem 1.5rem;
   }
 
   .cards {
@@ -8,6 +9,6 @@
   }
 
   .description {
-    margin-bottom: 3.2rem;
+    margin-bottom: 2rem;
   }
 }
